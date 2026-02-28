@@ -1,0 +1,5 @@
+original_shape: (9800, 18)
+cleaned_shape: (2676, 18)
+rows_removed: 7124
+columns_count: 18
+missing_values_after_cleaning: 0
